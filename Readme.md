@@ -1,7 +1,5 @@
 # Solar System 3D Visualization
 
-![Solar System](path/to/your/screenshot.png)
-
 ## Overview
 
 This project is a 3D visualization of the solar system using HTML, CSS, and Three.js. Explore the planets and their orbits in a visually stunning representation of our celestial neighborhood.
@@ -17,7 +15,7 @@ This project is a 3D visualization of the solar system using HTML, CSS, and Thre
 
 ## Demo
 
-Check out the live demo [here](link/to/your/demo).
+Check out the live demo [here](https://three-js-solar-system-two.vercel.app/).
 
 ## Features
 
